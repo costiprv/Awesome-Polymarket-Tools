@@ -118,6 +118,7 @@ Polymarket is a decentralized information markets platform where users can trade
 
 ## Data APIs & Aggregators
 
+- [Predxy](https://predxy.com/) - Index matching questions across Polymarket and other prediction market venues into one volume-weighted probability, with source prices and settlement rules.
 - [FinFeedAPI - Prediction Markets](https://finfeed.io/api/prediction-markets) - Unified API for Polymarket, Kalshi, Myriad, and Manifold with OHLCV data
 - [Polymarket Gamma API](https://gamma-api.polymarket.com/) - Official market metadata and event data API
 - [Polymarket CLOB API](https://clob.polymarket.com/) - Official trading API with order book data and execution
